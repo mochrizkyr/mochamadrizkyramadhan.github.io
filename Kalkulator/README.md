@@ -1,4 +1,4 @@
-# Tugas Individu - Kalkulator JavaScript - Progate Frontend Developer - Kelas D
+# Tugas Individu Membuat Kalkulator - Kelas D
  <h3>Dibuat Oleh</h3>
  > Mochamad Rizky Ramadhan<br>
 <br>
